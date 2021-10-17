@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(70, 142, 236);
+    font: normal 1.3em Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.308);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.288);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.308);
+}
+
+div {
+    margin: 18px;
+}
+
+#exibirDados {
+    text-align: center;
+}
